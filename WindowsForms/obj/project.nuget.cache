@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3fI0/pBBf98OJe7uORZX1e+JzYYcfNPYht8cwvHsps3gbxcBR2+b3VYnHlKmPFvXqQvb2AZLMXEP0pZBkqi8ng==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\QGSI-Opportunity-Watchlist-Integration-Samples\\WindowsForms\\WebView2WindowsFormsBrowser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abhin\\.nuget\\packages\\microsoft.web.webview2\\1.0.1671-prerelease\\microsoft.web.webview2.1.0.1671-prerelease.nupkg.sha512",
+    "C:\\Users\\abhin\\.nuget\\packages\\microsoft.windows.cppwinrt\\2.0.230225.1\\microsoft.windows.cppwinrt.2.0.230225.1.nupkg.sha512"
+  ],
+  "logs": []
+}

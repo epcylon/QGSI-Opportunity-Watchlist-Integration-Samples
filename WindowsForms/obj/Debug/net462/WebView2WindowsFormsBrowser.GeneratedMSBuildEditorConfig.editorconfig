@@ -1,0 +1,9 @@
+is_global = true
+build_property.ApplicationManifest = app.manifest
+build_property.StartupObject = 
+build_property.ApplicationDefaultFont = 
+build_property.ApplicationHighDpiMode = 
+build_property.ApplicationUseCompatibleTextRendering = 
+build_property.ApplicationVisualStyles = 
+build_property.RootNamespace = WebView2WindowsFormsBrowser
+build_property.ProjectDir = C:\dev\QGSI-Opportunity-Watchlist-Integration-Samples\WindowsForms\

@@ -1,0 +1,6 @@
+C:\dev\WebView2Samples\GettingStartedGuides\Win32_GettingStarted\x64\Debug\WebView2Loader.dll
+C:\dev\WebView2Samples\GettingStartedGuides\Win32_GettingStarted\x64\Debug\WebView2GettingStarted.exe
+C:\dev\qgsi-opportunity-watchlist\Win32\x64\Debug\WebView2Loader.dll
+C:\dev\qgsi-opportunity-watchlist\Win32\x64\Debug\WebView2GettingStarted.exe
+C:\dev\QGSI-Opportunity-Watchlist-Integration-Samples\Win32\x64\Debug\WebView2Loader.dll
+C:\dev\QGSI-Opportunity-Watchlist-Integration-Samples\Win32\x64\Debug\WebView2GettingStarted.exe
